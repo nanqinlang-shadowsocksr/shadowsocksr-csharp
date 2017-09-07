@@ -1,12 +1,12 @@
 ### new csharp
-a version that `fix pac&subscribe&upgrade address`  
+a version that `fix pac & subscribe & upgrade address`  
 modified by nanqinlang  
 new address are provided by nanqinlang  
-https://github.com/nanqinlang/shadowsocksr-csharp
+https://github.com/nanqinlang-shadowsocksr/shadowsocksr-csharp
 ### update
-contains `pac&subscribe&upgrade` three parts  
+contains `pac & subscribe & upgrade` three parts  
 this repo is as to provide update address for `modified csharp`  
-https://github.com/nanqinlang/shadowsocksr-update
+https://github.com/nanqinlang-shadowsocksr/shadowsocksr-update
 
 
 ## ShadowsocksR for Windows
