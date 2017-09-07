@@ -13,7 +13,7 @@ namespace Shadowsocks.Controller
 {
     public class UpdateFreeNode
     {
-        private const string UpdateURL = "https://github.com/nanqinlang/shadowsocksr-update/blob/master/freenode/freenodeplain.txt";
+        private const string UpdateURL = "https://raw.githubusercontent.com/nanqinlang-shadowsocksr/shadowsocksr-update/master/freenode/freenodeplain.txt";
 
         public event EventHandler NewFreeNodeFound;
         public string FreeNodeResult;
